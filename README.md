@@ -1,2 +1,2 @@
 # Portfolio-Project
-Developed a personal portfolio website for an assignment.
+Developed a fictional personal portfolio website for an assignment.
